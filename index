@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="description" content="The American Review | A quarterly print magazine of literature.">
+	<title>The American Review</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="color-scheme" content="light dark">
+	<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+	<style type="text/css">
+		p {
+			font: -apple-system-body, system-ui, BlinkMacSystemFont, sans-serif;
+		}
+		body {
+  			color-scheme: light dark;
+  			background: white;
+  			color:      black;
+		}
+		@media (prefers-color-scheme: dark) {
+  			body {
+    			background: black;
+    			color:      white;
+  			}
+		}
+		@media (prefers-contrast: more) {
+  			p {
+				font-weight: bold;
+			}
+		}
+	</style>
+</head>
+<body id="index">
+	<p>This is the website of The American Review.</p>
+	<p>The American Review is a quarterly print magazine of literature.</p>
+	<p>We seek to publish the best new writing, especially by unheralded writers.</p>
+	<p>Our first print issue will be published in [May, 2026]. Submit your work here: [email TK].</p>
+	<p>In celebration of our launch, we are proud to present the following online-only pieces:</p>	
+	<p>Title TK, by author TK [link].</p>
+	<p>Title TK, by author TK [link].</p>
+	<p>Title TK, by author TK [link].</p>
+	<p>Title TK, by author TK [link].</p>
+	<p>Title TK, by author TK [link].</p>
+</body>
